@@ -42,3 +42,8 @@ Após a execução, abra o relatório em:
 target/site/jacoco/index.html
 ```
 
+## Tutorial no IntelliJ
+
+Para um passo a passo sobre como executar testes, visualizar cobertura e rodar testes de mutação no IntelliJ IDEA, consulte:
+
+[Tutorial: cobertura de testes e testes de mutação no IntelliJ](docs/TUTORIAL_COBERTURA_E_MUTACAO_INTELLIJ.md)
