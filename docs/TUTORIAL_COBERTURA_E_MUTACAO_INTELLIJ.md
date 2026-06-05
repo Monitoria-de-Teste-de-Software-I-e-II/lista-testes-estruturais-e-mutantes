@@ -18,7 +18,6 @@ Para executar todos os testes:
 1. Abra a pasta `src/test/java`.
 2. Clique com o botão direito sobre a pasta de testes.
 3. Escolha **Run 'Tests in java'** ou uma opção equivalente de execução dos testes.
-
 ![Run Tests](assets/intellij-run-tests.png)
 
 Outra opção é abrir uma classe de teste e clique no ícone de play verde ao lado do nome da classe ou de um método de teste:
@@ -75,9 +74,12 @@ src/main/java/br/ufrn/dimap/services/CalculadoraDesconto.java
 ```
 2. Clique com o botão direito dentro do editor.
 3. Escolha **Run PITest Here**.
+
 ![Run](assets/intellij-run-pitest.png)
+
 4. Aguarde a execução terminar.
 5. Quando aparecer o aviso de conclusão, clique em **Show Report**.
+
 ![Report](assets/intellij-pitest-report.png)
 
 Também é possível executar o PITest selecionando arquivos, pacotes ou uma combinação de classes de produção e classes de teste pelo painel do projeto.

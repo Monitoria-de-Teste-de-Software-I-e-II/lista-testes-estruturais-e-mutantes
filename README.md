@@ -2,7 +2,7 @@
 
 ## Contexto geral
 
-Este projeto Maven já está configurado com Java 17 ou superior, JUnit 5 e JaCoCo. As classes necessárias já estão implementadas no pacote `br.ufrn.dimap.services`.
+Este projeto Maven já está configurado com Java 17, JUnit 5 e JaCoCo. As classes necessárias já estão implementadas no pacote `br.ufrn.dimap.services`.
 
 Nesta lista, você deve analisar o código, criar testes unitários com JUnit 5 e interpretar os relatórios gerados pelas ferramentas de cobertura e mutação.
 
@@ -15,14 +15,6 @@ Para compilar o projeto:
 ```bash
 mvn clean compile
 ```
-
-O Maven precisa estar usando JDK 17 ou superior. Verifique com:
-
-```bash
-mvn -version
-```
-
-Se o Maven estiver apontando para um JDK anterior, ajuste a variável `JAVA_HOME` antes de executar os comandos.
 
 Para executar os testes unitários:
 
@@ -47,3 +39,9 @@ target/site/jacoco/index.html
 Para um passo a passo sobre como executar testes, visualizar cobertura e rodar testes de mutação no IntelliJ IDEA, consulte:
 
 [Tutorial: cobertura de testes e testes de mutação no IntelliJ](docs/TUTORIAL_COBERTURA_E_MUTACAO_INTELLIJ.md)
+
+---
+
+<p align="center">
+  Feito com ❤️ pela equipe de monitores de 2026.
+</p>
