@@ -40,6 +40,11 @@ Para um passo a passo sobre como executar testes, visualizar cobertura e rodar t
 
 [Tutorial: cobertura de testes e testes de mutação no IntelliJ](docs/TUTORIAL_COBERTURA_E_MUTACAO_INTELLIJ.md)
 
+## Tutorial no Eclipse
+
+Para um passo a passo sobre como executar testes de mutação no Eclipse, consulte:
+
+[Tutorial: testes de mutação no Eclipse](docs/TUTORIAL_COBERTURA_E_MUTACAO_ECLIPSE.md)
 ---
 
 <p align="center">
