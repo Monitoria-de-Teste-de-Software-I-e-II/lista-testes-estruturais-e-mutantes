@@ -42,9 +42,9 @@ Para um passo a passo sobre como executar testes, visualizar cobertura e rodar t
 
 ## Tutorial no Eclipse
 
-Para um passo a passo sobre como executar testes de mutação no Eclipse, consulte:
+Para um passo a passo sobre como executar testes, visualizar cobertura e rodar testes de mutação no Eclipse, consulte:
 
-[Tutorial: testes de mutação no Eclipse](docs/TUTORIAL_COBERTURA_E_MUTACAO_ECLIPSE.md)
+[Tutorial: cobertura de testes e testes de mutação no Eclipse](docs/TUTORIAL_COBERTURA_E_MUTACAO_ECLIPSE.md)
 
 ## Tutorial no Visual Stuido Code
 
