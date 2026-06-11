@@ -44,7 +44,7 @@ Depois da execução, o próprio editor marca as linhas do código:
 
 ![Cobertura](assets/intellij-cobertura.png)
 
-## 5. Executando testes de mutação com plugin no IntelliJ
+## 4. Executando testes de mutação com plugin no IntelliJ
 
 Existe um plugin para IntelliJ chamado **PITest**.
 
@@ -56,7 +56,7 @@ https://bmccar.github.io/pitest-idea/
 
 Com ele, é possível executar o PITest direto pela IDE. O plugin mostra os resultados dentro do IntelliJ, marca os mutantes no editor e também permite abrir um relatório.
 
-### 5.1. Instalando o plugin
+### 4.1. Instalando o plugin
 
 1. No IntelliJ, vá em **File > Settings**.
 2. Acesse **Plugins**.
@@ -66,7 +66,7 @@ Com ele, é possível executar o PITest direto pela IDE. O plugin mostra os resu
 
 ![Install PITest](assets/intellij-install-pitest.png)
 
-### 5.2. Rodando o PITest em uma classe
+### 4.2. Rodando o PITest em uma classe
 
 1. Abra uma classe em `src/main/java`, por exemplo:
 ```text
@@ -90,7 +90,7 @@ O plugin tenta associar automaticamente as classes de produção e as classes de
 CalculadoraDesconto.java -> CalculadoraDescontoTest.java
 ```
 
-### 6.3. O que observar no relatório do plugin
+### 4.3. O que observar no relatório do plugin
 
 No relatório, procure principalmente por:
 

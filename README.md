@@ -46,6 +46,12 @@ Para um passo a passo sobre como executar testes de mutação no Eclipse, consul
 
 [Tutorial: testes de mutação no Eclipse](docs/TUTORIAL_COBERTURA_E_MUTACAO_ECLIPSE.md)
 
+## Tutorial no Visual Stuido Code
+
+Para um passo a passo sobre como executar testes, visualizar cobertura e rodar testes de mutação no Visual Studio Code, consulte:
+
+[Tutorial: testes de mutação no Visual Studio Code](docs/TUTORIAL_COBERTURA_E_MUTACAO_VSCODE.md)
+
 ---
 
 <p align="center">
